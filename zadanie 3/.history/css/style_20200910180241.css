@@ -1,0 +1,13 @@
+#square {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    left: 10px;
+    margin-top: 10px;
+    text-align: center;
+    color: yellow;
+    font-size: 10px;
+
+  }
+
